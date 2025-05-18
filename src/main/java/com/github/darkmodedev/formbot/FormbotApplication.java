@@ -9,5 +9,4 @@ public class FormbotApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FormbotApplication.class, args);
 	}
-
 }
